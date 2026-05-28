@@ -142,16 +142,7 @@ Repo: [A-B-Testing-Framework-for-ML-models](https://github.com/navnithb2001/A-B-
 - Agentic software engineering tools
 - Cloud-native backend architecture
 - Scalable experimentation platforms for ML products
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navnithb2001&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navnithb2001&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
+  
 ---
 
 ## What I Care About
